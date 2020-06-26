@@ -5,7 +5,8 @@ Runs on linux, need to have ffpmeg package installed
 
 # Installation
 
-1. Clone this repository `git clone https://github.com/lkilcommons/imgdir2mp4'
-2. Run `python imgdir2mp4.py --help` to see how to use command
+On Ubuntu:
+`sudo apt install ffmpeg`
 
-`sudo apt install ffmpeg'
+1. Clone this repository `git clone https://github.com/lkilcommons/imgdir2mp4`
+2. Run `python imgdir2mp4.py --help` to see how to use command
